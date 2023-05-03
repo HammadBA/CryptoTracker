@@ -37,7 +37,7 @@ const Header = () => {
           <Container>
             <Toolbar>
               <Typography
-                onClick={() => history("/")}
+                onClick={() => history("/CryptoTracker")}
                 sx={theme.title}
                 variant="h6"
               >
