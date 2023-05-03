@@ -1,6 +1,6 @@
 # Crypto Tracker
 
-Get All The Info Regarding Your Favourite Crypto Currency, Filter By Top Gainers/Losers And More, And Add Your Favourite To Your Watchlist<br />
+Get All The Info Regarding Your Favourite Crypto Currency Using This Crypto Tracker As Your Dashboard<br />
 Built Using CoinGecko API<br><br>
 Use it here 💻 https://hammadba.github.io/CryptoTracker
 
