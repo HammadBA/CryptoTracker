@@ -21,7 +21,7 @@ function App() {
         <Header />
 
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/CryptoTracker" element={<HomePage />} />
           <Route path="/coins/:id" element={<CoinPage />} />
         </Routes>
       </Box>
